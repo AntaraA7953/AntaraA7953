@@ -58,18 +58,6 @@ I'm Antara Karmakar, a B.tech CSE Student with interests in:
     <td align="center">
       <img src="https://cdn.simpleicons.org/linux/FCC624" height="40"/><br/><b>Linux</b>
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/numpy/013243" height="40"/><br/><b>NumPy</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/pandas/150458" height="40"/><br/><b>Pandas</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/matplotlib/003366" height="40"/><br/><b>Matplotlib</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/scipy/8CA0FF" height="40"/><br/><b>SciPy</b>
-    </td>
   </tr>
 </table>
 
@@ -78,12 +66,7 @@ I'm Antara Karmakar, a B.tech CSE Student with interests in:
 
 <table>
   <tr>
-   <td align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/OpenWeatherMap_logo.png" height="40"/><br/><b>OpenWeather</b>
-</td>
-<td align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mapbox_logo_2019.svg/512px-Mapbox_logo_2019.svg.png" height="40"/><br/><b>Mapbox</b>
-</td>
+ 
 <td align="center">
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40"/><br/><b>TensorFlow</b>
     </td>
@@ -92,6 +75,15 @@ I'm Antara Karmakar, a B.tech CSE Student with interests in:
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/><br/><b>Scikit-learn</b>
+    </td>
+     <td align="center">
+      <img src="https://cdn.simpleicons.org/numpy/013243" height="40"/><br/><b>NumPy</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/pandas/150458" height="40"/><br/><b>Pandas</b>
+    </td>
+   <td align="center">
+      <img src="https://cdn.simpleicons.org/scipy/8CA0FF" height="40"/><br/><b>SciPy</b>
     </td>
   </tr>
 </table>

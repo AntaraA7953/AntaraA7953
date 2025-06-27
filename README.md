@@ -20,6 +20,7 @@ I'm Antara Karmakar, a B.tech CSE Student with interests in:
     <td align="center"><img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40"/><br/>C++</td>
     <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" height="40"/><br/>Python</td>
     <td align="center"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://cdn.simpleicons.org/react/F7DF1E" height="40"/><br/>React</td>
   </tr>
 </table>
 
